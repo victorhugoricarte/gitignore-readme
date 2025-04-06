@@ -5,9 +5,11 @@
 ## Demonstração
 
 ## Tecnologias utlizadas
--
--
--
+(Liste separando pelo tipo)
+- Frontend:
+- Backend:
+- Banco de dados:
+- Outras tecnologias:
 
 ## Pré-requisitos
 - 
@@ -15,3 +17,6 @@
 - 
 
 ## Como rodar o projeto localmente
+(Disponibilidade para colonagem)
+```bash
+git clone origin
