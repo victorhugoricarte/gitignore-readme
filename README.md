@@ -20,7 +20,13 @@
 - Banco de dados configurado (Caso seja aplicável).
 
 ## Como rodar o projeto localmente
-(Por exemplo, a disponibilidade para colonagem)
+(Passo a passo para rodar o projeto na máquina)
+(Colocar, por exemplo, a disponibilidade para colonagem)
 1. Clone o repositório:
 ```bash
 git clone https://github.com/nome-de-usuario/nome-de-projeto.git
+```
+## Visualização de (versão, status de build, licença, etc)
+- Exemplo utilizando **badges** do Shields.io:
+```markdown
+![GitHub license](https://img.shields.io/github/license/nome-de-usuario/nome-do-projeto)
